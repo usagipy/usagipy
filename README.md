@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @usagipycom
+- 👋 Hi, I’m @usagipy
 - 👀 I’m interested in anime
 - 🌱 I’m currently learning  machine learning python 
 - 💞️ I’m looking to collaborate on english community
